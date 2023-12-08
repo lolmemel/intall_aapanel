@@ -1,4 +1,4 @@
-# intall_aapanel
+# install_aapanel
 Autoinstall aapanel
 
 For Os Centos
